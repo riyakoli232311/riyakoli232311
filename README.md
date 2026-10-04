@@ -36,19 +36,5 @@ I build practical digital products with a focus on AI, web technologies, and rea
 - Security-focused and practical tech solutions
 - Cloud-ready systems and scalable prototypes
 
-## 🌟 Featured Projects
-- [SentinelX](https://github.com/riyakoli232311/SentinelX) — AI-powered security monitoring and threat detection
-- [Agritech](https://github.com/riyakoli232311/Agritech) — Smart agriculture tech solutions
-- [AI Chatbot UI](https://github.com/riyakoli232311/AI--chatbot-ui) — AI-driven conversational interface
-
-## 📊 GitHub Stats
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyakoli232311&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyakoli232311&layout=compact&theme=radical)
-
-## 🤝 Connect
-- GitHub: [@riyakoli232311](https://github.com/riyakoli232311)
-- Email: smriti.dawane@gmail.com
-- LinkedIn: [Add your LinkedIn](https://linkedin.com)
 
 > Learning cloud-native architecture and containerization to deploy products faster, smarter, and more reliably.
