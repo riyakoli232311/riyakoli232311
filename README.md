@@ -1,4 +1,4 @@
-# Hi, I'm Riya 👋
+# Hi, I'm Riya Koli👋
 
 **Computer Engineering Student • Software Developer • Data & AI Enthusiast**
 
