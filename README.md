@@ -2,13 +2,11 @@
 
 **Computer Engineering Student • Software Developer • Data & AI Enthusiast**
 
-I don’t just build applications; I build solutions with purpose. I enjoy turning ideas into practical products by combining software development, data, and AI. I’m especially interested in solving real-world problems through clean code, data-driven decisions, and modern technologies.
+I enjoy building things that sit at the intersection of **software, data, and problem-solving**. 
+From developing applications to analyzing data and experimenting with AI/ML, I like understanding 
+how technology can be used to solve practical problems.
 
-## 🚀 My Philosophy
-
-- **Build with Purpose:** I focus on projects that solve real problems rather than building for the sake of building.
-- **Learn by Building:** I believe the best way to understand technology is to use it in practical projects and turn ideas into working solutions.
-- **Data-Driven Thinking:** I enjoy exploring data, spotting patterns, and turning raw information into meaningful insights.
+I’m currently expanding my skills in Java, DSA, SQL,Data Analytics, and Machine Learning while building projects that turn what I learn into real, working solutions.
 
 ## 🧠 Skills
 
