@@ -9,7 +9,6 @@ I don’t just build applications; I build solutions with purpose. I enjoy turni
 - **Build with Purpose:** I focus on projects that solve real problems rather than building for the sake of building.
 - **Learn by Building:** I believe the best way to understand technology is to use it in practical projects and turn ideas into working solutions.
 - **Data-Driven Thinking:** I enjoy exploring data, spotting patterns, and turning raw information into meaningful insights.
-- **Continuous Learning:** Technology keeps evolving, and I’m always learning tools and approaches that help me build better, faster, and more effective solutions.
 
 ## 🧠 Skills
 
