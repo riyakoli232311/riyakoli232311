@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Riya 👋
 
-<!--
-**riyakoli232311/riyakoli232311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Developer • Full-Stack Builder • Product Thinker
 
-Here are some ideas to get you started:
+I build practical digital products with a focus on AI, web technologies, and real-world impact. I enjoy turning ideas into usable solutions and learning the tools that help move products from concept to MVP faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 🚀 What I’m Building
+- AI-powered SaaS and product ideas
+- Full-stack web apps with clean UX
+- Security-focused and practical tech solutions
+- Cloud-ready systems and scalable prototypes
+
+## 🌟 Featured Projects
+- [SentinelX](https://github.com/riyakoli232311/SentinelX) — AI-powered security monitoring and threat detection
+- [Agritech](https://github.com/riyakoli232311/Agritech) — Smart agriculture tech solutions
+- [AI Chatbot UI](https://github.com/riyakoli232311/AI--chatbot-ui) — AI-driven conversational interface
+
+## 📊 GitHub Stats
+![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyakoli232311&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyakoli232311&layout=compact&theme=radical)
+
+## 🤝 Connect
+- GitHub: [@riyakoli232311](https://github.com/riyakoli232311)
+- Email: smriti.dawane@gmail.com
+- LinkedIn: [Add your LinkedIn](https://linkedin.com)
+
+> Learning cloud-native architecture and containerization to deploy products faster, smarter, and more reliably.
