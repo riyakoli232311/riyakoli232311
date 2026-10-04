@@ -22,8 +22,6 @@ I don’t just build applications; I build solutions with purpose. I enjoy turni
 ### Data & Analytics
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### AI / Machine Learning
@@ -49,37 +47,10 @@ I don’t just build applications; I build solutions with purpose. I enjoy turni
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🚀 What I’m Building
-
-- 📊 Data analytics and Big Data projects
-- 🤖 AI/ML solutions for real-world problems
-- 🌐 Full-stack web applications
-- 🔐 Practical and security-focused systems
-- 📈 Data-driven dashboards and decision-support solutions
-
-## 🌱 Currently Learning
-
-- Advanced **Java** & **Data Structures and Algorithms**
-- **SQL** and **Data Analytics**
-- **Big Data Analytics** with **Spark, Hadoop, and Hive**
-- **Machine Learning**
-- Building and deploying practical **full-stack applications**
-
-## 👩‍💻 About Me
-
 - 🌍 Based in **India**
 - 🎓 Pursuing **B.E. in Computer Engineering**
-- 💻 Interested in **Software Development, Data Analytics, Big Data, and AI**
+- 💻 Interested in **Software Development, Data Analytics, and AI**
 - 📚 Always learning, building, and experimenting with new technologies
 - 🚀 Focused on creating projects that combine technology with real-world impact
-
-## 🤝 Let’s Connect
-
-I’m always open to learning, collaborating on interesting projects, and connecting with people working in software, data, and AI.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-
----
 
 ⭐ **Thanks for visiting my profile!**
